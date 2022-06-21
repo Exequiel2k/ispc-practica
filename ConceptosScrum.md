@@ -21,21 +21,21 @@ Las decisiones para optimizar el valor y controlar el riesgo se hacen con base e
 
 Los artefactos son: <br>
 
-#### *Product Backlog <br>
+#### Product Backlog <br>
 Es una lista ordenada, que contiene todo lo que podría ser necesario en el producto y es la única fuente de requisitos para hacer cambios en el producto.
 
 El único responsable del Product Backlog es el Product Owner. Es el encargado de ordenar y añadir ítems.
 
 Por definición, esta lista nunca está completa, sino que es un ente vivo y dinámico, que va cambiando según lo hace el entorno y el propio producto para ser adecuado, competitivo y útil.<br>
 
-#### *Sprint Backlog <br>
+#### Sprint Backlog <br>
 Son los ítems o elementos del Product Backlog seleccionados para ser ejecutados durante el Sprint en curso. Así pues, el Sprint Backlog es un plan para entregar un Incremento de producto “Terminado” al final del Sprint.
 
 A medida que se va trabajando sobre el producto, va apareciendo nuevo trabajo, que el Equipo de Desarrollo va añadiendo al Sprint Backlog.
 
 El Sprint Backlog solo lo puede modificar durante el Sprint, el Equipo de Desarrollo, así como eliminarlo.
 
-#### *Incremento<br>
+#### Incremento<br>
 Es la suma de todos los elementos del Sprint Backlog “Terminados” más los Incrementos de Sprints anteriores.
 
 “Terminado” significa que puede ser utilizado y que además cumple con la “Definición de Terminado”, es decir, lo que todo el mundo entiende dentro del equipo por terminado.
