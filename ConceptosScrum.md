@@ -1,7 +1,7 @@
 # ispc-practica
 Repositorio de practica grupo 4
 
-<h1>Ceremonias que se realizan a lo largo del proyecto:</h1> <br>
+##Ceremonias que se realizan a lo largo del proyecto: <br>
 ● Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.<br>
 ● Daily Scrum Meeting (reunión periódica). Se produce diariamente, y tiene un máximo de
