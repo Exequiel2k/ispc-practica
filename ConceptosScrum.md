@@ -39,3 +39,6 @@ El Sprint Backlog solo lo puede modificar durante el Sprint, el Equipo de Desarr
 Es la suma de todos los elementos del Sprint Backlog “Terminados” más los Incrementos de Sprints anteriores.
 
 “Terminado” significa que puede ser utilizado y que además cumple con la “Definición de Terminado”, es decir, lo que todo el mundo entiende dentro del equipo por terminado.
+
+##### Roles <br> 
+Texto de prueba 
