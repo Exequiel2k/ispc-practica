@@ -41,4 +41,4 @@ Es la suma de todos los elementos del Sprint Backlog “Terminados” más los I
 “Terminado” significa que puede ser utilizado y que además cumple con la “Definición de Terminado”, es decir, lo que todo el mundo entiende dentro del equipo por terminado.
 
 ##### Roles <br> 
-Texto de prueba 
+otra prueba 
