@@ -1,6 +1,36 @@
 # ispc-practica
 Repositorio de practica grupo 4
 
+## Definición de Scrum: <br>
+ Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. 
+ 
+● Es una enfoque ágil para la gestión de un proyecto. <br>
+● Más que una metodología o proceso, es un Marco de Trabajo. <br>
+● Utiliza procesos interactivos/incrementales.<br>
+● Orientado a resultados y compromisos.<br>
+● No está restringido a proyectos de software solamente.<br>
+● Su visión es opuesta a la propuesta por la metodología en<br>
+cascada.
+
+### Pilares de Scrum:<br>
+**Transparencia**<br>
+Los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La
+transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los
+observadores compartan un entendimiento común de lo que se están viendo.
+Por ejemplo<br>
+• Deben compartir un lenguaje común todos los participantes para referirse al proceso; y,
+• Aquellos que desempeñan el trabajo y quienes inspeccionan el incremento resultante deben compartir una definición
+común de “Terminado” (“Done”).<br>
+**Inspección**<br>
+Los usuarios de Scrum deben inspeccionar frecuentemente los Artefactos de Scrum y el progreso hacia un objetivo para
+detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo.
+Las inspecciones son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo
+lugar de trabajo.<br>
+**Adaptación**<br>
+Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto
+resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse. Dicho ajuste deberá
+realizarse cuanto antes para minimizar desviaciones mayores.<br>
+
 ## Ceremonias que se realizan a lo largo del proyecto: <br>
 ● Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.<br>
