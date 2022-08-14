@@ -1,6 +1,6 @@
-create database peluqueriaCanina;
+CREATE DATABASE peluqueriaCanina;
 
-use peluqueriaCanina;
+USE peluqueriaCanina;
 
 CREATE TABLE DUENO (
 DNI int not null,
@@ -40,9 +40,9 @@ INSERT INTO DUENO VALUES (56572759,'Julian','Juarez Perez',21060259,'El Ceibo 24
 
 -- Ejercicio 2: Se insertan algunos perros
 
-INSERT INTO DUENO VALUES (1,'Negro','2013-02-10','Macho',31692789);
-INSERT INTO DUENO VALUES (2,'Morella','2020-11-11','Hembra',33552854);
-INSERT INTO DUENO VALUES (3,'Itatí','2022-01-02','Hembra',56572759);
+INSERT INTO PERRO VALUES (1,'Negro','2013-02-10','Macho',31692789);
+INSERT INTO PERRO VALUES (2,'Morella','2020-11-11','Hembra',33552854);
+INSERT INTO PERRO VALUES (3,'Itatí','2022-01-02','Hembra',56572759);
 
 
 -- Ejercicio 9: Se actualiza la dirección de Lucas Juárez
