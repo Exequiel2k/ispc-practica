@@ -33,12 +33,12 @@ foreign key (perro) references perro (id_perro)
 
 );
 
+-- Ejercicio 2: Se insertan algunos dueños y perros
+
 INSERT INTO DUENO VALUES (33552854,'Marcia','Perez',1133909772,'El Ceibo 2423');
 INSERT INTO DUENO VALUES (31692789,'Lucas','Juarez',2215114939,'El Cardenal 538');
 INSERT INTO DUENO VALUES (56572759,'Julian','Juarez Perez',21060259,'El Ceibo 2423');
 
-
--- Ejercicio 2: Se insertan algunos perros
 
 INSERT INTO PERRO VALUES (1,'Negro','2013-02-10','Macho',31692789);
 INSERT INTO PERRO VALUES (2,'Morella','2020-11-11','Hembra',33552854);
